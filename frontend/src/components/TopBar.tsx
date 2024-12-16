@@ -14,7 +14,7 @@ const Topbar = () => {
 		<div className='flex items-center justify-between p-4 sticky top-0 bg-zinc-900/75 backdrop-blur-md z-10 rounded-lg mx-2 my-2'>
 			<div className='flex gap-2 items-center font-bold'>
 				<img src='/spotify.png' className='size-8' alt='Spotify logo' />
-				Spotify
+				Spotify Clone By Viet Long
 			</div>
 			<div className='flex items-center gap-4'>
 				<SignedIn>
